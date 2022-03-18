@@ -1,0 +1,3 @@
+flask
+jishaku
+nextcord
